@@ -12,7 +12,7 @@
 
 -   💬 Ask me about ** Laravel, Vue, APIs, PHP, Strapi, Wordpress, SEO **
 
--   📫 How to reach me **peterkimanzikithumba@gmail.com**
+-   📫 How to reach me **toxa89941@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
